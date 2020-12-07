@@ -1,5 +1,7 @@
 # mycode
+
 Repo for ALTA3 Python for Network Developers
+Learning to using GitHub in the context of this class.
 
 ## This Repo is to be used for class projects and files
 
